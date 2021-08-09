@@ -1,2 +1,0 @@
-# ReactCrudfrontend
-MERN Stack demo
