@@ -16,6 +16,7 @@ class AddEmployee extends Component {
       email: "",
       phone: "",
     };
+    console.log("state",this.state);
   }
 
   // When value changes of the fields
